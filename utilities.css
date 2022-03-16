@@ -1,0 +1,12 @@
+:root{
+    --bgcolor: rgb(185, 211, 223);
+    --test-color: rgb(42, 20, 94);
+}
+*{
+    background-color: var(--bgcolor);
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
